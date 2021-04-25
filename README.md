@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](ss.png)
+![screenshot](ss.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blackeye-101.github.io/fem.io-chlng1/)
+- [Solution URL](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/responsive-3columncard-using-html-and-css-S-pGnP7u4)
+- [Live Site URL](https://blackeye-101.github.io/fem.io-chlng1/)
 
 ## My process
 
